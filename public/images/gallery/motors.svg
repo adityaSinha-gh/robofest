@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" preserveAspectRatio="xMidYMid slice"><rect width="300" height="180" fill="#171C22"/><path d="M0 0H300M0 50H300M0 100H300M0 150H300M0 0V180M50 0V180M100 0V180M150 0V180M200 0V180M250 0V180M300 0V180" stroke="#2457A7" stroke-opacity=".28" fill="none"/><rect x="40" y="55" width="130" height="70" rx="10" fill="#E5E7EB"/><rect x="40" y="55" width="130" height="14" fill="#F5F4EF"/>
+<path d="M60 55V125M82 55V125M104 55V125M126 55V125M148 55V125" stroke="#65717D" stroke-width="2" opacity=".6"/>
+<rect x="170" y="62" width="40" height="56" rx="6" fill="#2457A7"/><rect x="210" y="84" width="60" height="12" fill="#F5F4EF"/><rect x="262" y="84" width="8" height="12" fill="#E58A36"/>
+<circle cx="190" cy="90" r="8" fill="#080E1D"/><rect x="24" y="76" width="16" height="28" rx="3" fill="#65717D"/>
+<path d="M24 84C6 84 10 40 40 38M24 98C6 98 10 140 40 142" stroke="#E58A36" stroke-width="3" fill="none"/><path d="M24 84C6 84 10 40 40 38" stroke="#F5F4EF" stroke-width="0" fill="none"/>
+<circle cx="266" cy="90" r="14" fill="none" stroke="#E58A36" stroke-width="2" stroke-dasharray="4 5"><animateTransform attributeName="transform" type="rotate" from="0 266 90" to="360 266 90" dur="3s" repeatCount="indefinite"/></circle></svg>
